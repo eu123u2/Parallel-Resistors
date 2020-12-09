@@ -1,0 +1,2 @@
+# Parallel-Resistors
+A parallel circuit is a circuit in which the resistors are arranged with their heads connected together, and their tails connected together. The current in a parallel circuit breaks up, with some flowing along each parallel branch and re-combining when the branches meet again. The voltage across each resistor in parallel is the same. This program computes the equivalent resistance. 
